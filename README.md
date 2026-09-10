@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 \# NYC Taxi Lakehouse Analytics Platform
 
 
@@ -41,6 +41,7 @@ insights through Power BI.
 
 \## Architecture
 
+![NYC Taxi Lakehouse Architecture](images/architecture.png)
 
 
 Source → Bronze → Silver → Gold → Databricks SQL → Power BI
