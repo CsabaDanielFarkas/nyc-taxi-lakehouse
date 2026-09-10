@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 \# NYC Taxi Lakehouse Analytics Platform
 
 
@@ -132,3 +133,6 @@ Infrastructure and Databricks job definitions are stored under `resources/`.
 
 🚧 In development
 
+=======
+# nyc-taxi-lakehouse
+>>>>>>> f67323b1a4a7ccd44d7e1bb2719c5731e52b283e
